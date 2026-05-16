@@ -19,6 +19,5 @@ export function buildApp(options: FastifyServerOptions = {}) {
     };
   });
 
-  const x: number = "故意錯誤"
   return app;
 }
